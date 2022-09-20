@@ -18,8 +18,7 @@ random_choice = random.randint(0, length_of_the_name_list -1)
 # person_who_will_pay.
 person_who_will_pay = names[random_choice]
 
-# Printing the value of the variable person_who_will_pay and the string " is going to buy the meal
-# today"
+# Printing the value of the variable person_who_will_pay and the string " is going to buy the meal today
 print(person_who_will_pay + " is going to buy the meal today")
 
 
